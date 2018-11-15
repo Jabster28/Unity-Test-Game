@@ -1,0 +1,19 @@
+sceneSetups:
+- path: Assets/Scenes/Playables.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Level 1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Start.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Intro.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level 2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/testscene.unity
+  isLoaded: 0
+  isActive: 0
